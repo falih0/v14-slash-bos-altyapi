@@ -1,0 +1,21 @@
+{
+  "name": "leckio-altyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.5.0",
+    "croxydb": "^0.0.7",
+    "discord-economy-super": "^1.7.6",
+    "discord.js": "^14.8.0",
+    "djs-commands": "^2.0.6",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  }
+}
