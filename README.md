@@ -6,4 +6,4 @@
 GUILD_ID=
 TOKEN=*
 
-**yazın.**
+**yazın ve alt alta sıralayın.**
