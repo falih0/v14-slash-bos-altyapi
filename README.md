@@ -1,3 +1,9 @@
 # v14-slash-bos-altyapi
 
-***denemesini yapıp atıcam.***
+***.env açıp***
+
+*CLIENT_ID=
+GUILD_ID=
+TOKEN=*
+
+**yazın.**
